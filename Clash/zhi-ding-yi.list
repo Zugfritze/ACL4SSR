@@ -1,0 +1,3 @@
+#NTP服务器
+DOMAIN-KEYWORD,ntp
+DOMAIN-SUFFIX,ntp.org.cn
